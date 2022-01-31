@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Omni_Base64_Decode_1.0", "Omni_Base64_Decode_1.0\Omni_Base64_Decode_1.0.pyproj", "{DA6785BF-7DCB-4AD7-905A-EB72A30F2055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6785BF-7DCB-4AD7-905A-EB72A30F2055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6785BF-7DCB-4AD7-905A-EB72A30F2055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2D61D5-A03F-4A16-AF91-EDDF0F01BC71}
+	EndGlobalSection
+EndGlobal
